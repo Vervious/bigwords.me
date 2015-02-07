@@ -1,0 +1,20 @@
+{
+  "name": "bigwords.me",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Vervious/bigwords.me",
+  "authors": [
+    "Benjamin Y Chan <me@vervious.com>"
+  ],
+  "license": "GPL",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "~3.0.2"
+  }
+}
